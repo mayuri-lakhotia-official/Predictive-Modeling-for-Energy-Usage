@@ -59,6 +59,7 @@ To develop an LSTM-based deep learning model capable of predicting future electr
 
 ### 1. Clone the Repository
 git clone https://github.com/mayuri-lakhotia-official/Predictive-Modeling-for-Energy-Usage
+
 cd predictive-energy-usage
 
 ### 2. Install Dependencies
