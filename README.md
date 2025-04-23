@@ -68,6 +68,7 @@ pip install -r requirements.txt
 
 ### 3. Run the App or Notebooks
 Launch the notebook: jupyter notebook
+
 Run the Gradio app: python app/app_interface.py
 
 ## Authors
