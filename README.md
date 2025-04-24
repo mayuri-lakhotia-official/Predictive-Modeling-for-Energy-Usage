@@ -1,4 +1,6 @@
-#  Predictive Modeling for Energy Usage (Time Series Forecasting)
+#  Predictive Modeling for Energy Usage 
+
+(Time Series Forecasting)
 
 ## Table of Contents
 - [Overview](#overview)
