@@ -64,14 +64,19 @@ git clone https://github.com/mayuri-lakhotia-official/Predictive-Modeling-for-En
 
 cd predictive-energy-usage
 
+
 ### 2. Install Dependencies
 It’s recommended to use a virtual environment:
+
 pip install -r requirements.txt
+
 
 ### 3. Run the App or Notebooks
 Launch the notebook: jupyter notebook
 
 Run the Gradio app: python app/app_interface.py
+
+---
 
 ## Authors
 - **Mayuri Lakhotia**
